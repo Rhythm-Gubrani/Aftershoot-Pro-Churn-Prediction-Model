@@ -360,9 +360,9 @@ Potential enhancements include:
 
 # 👨‍💻 Author
 
-Rhythm Gubrani
+Rhythm 
 
-Final Year B.Tech CSE Student | Data Science & Machine Learning Enthusiast
+Former Data Analyst @Octro.inc | Data Science & Machine Learning Enthusiast
 
 Open to opportunities in:
 
